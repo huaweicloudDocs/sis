@@ -1,0 +1,36 @@
+# 示例音频<a name="sis_03_0084"></a>
+
+测试音频如[表 示例音频](#table1742582151119)所示，音频文件标题表示采样率和位宽。如8k16bit.pcm表示音频采样率为8k，位宽为16bit。
+
+**表 1**  示例音频
+
+<a name="table1742582151119"></a>
+<table><thead align="left"><tr id="row342611241118"><th class="cellrowborder" valign="top" width="17.47%" id="mcps1.2.3.1.1"><p id="p104265251120"><a name="p104265251120"></a><a name="p104265251120"></a>音频格式</p>
+</th>
+<th class="cellrowborder" valign="top" width="82.53%" id="mcps1.2.3.1.2"><p id="p7426182141112"><a name="p7426182141112"></a><a name="p7426182141112"></a>下载链接</p>
+</th>
+</tr>
+</thead>
+<tbody><tr id="row74261623116"><td class="cellrowborder" valign="top" width="17.47%" headers="mcps1.2.3.1.1 "><p id="p542620291112"><a name="p542620291112"></a><a name="p542620291112"></a>mp3</p>
+</td>
+<td class="cellrowborder" valign="top" width="82.53%" headers="mcps1.2.3.1.2 "><p id="p152081934171415"><a name="p152081934171415"></a><a name="p152081934171415"></a><a href="https://sis-sample-audio.obs.cn-north-1.myhuaweicloud.com/16k16bit.mp3" target="_blank" rel="noopener noreferrer">https://sis-sample-audio.obs.cn-north-1.myhuaweicloud.com/16k16bit.mp3</a></p>
+</td>
+</tr>
+<tr id="row19426112191119"><td class="cellrowborder" valign="top" width="17.47%" headers="mcps1.2.3.1.1 "><p id="p942615216112"><a name="p942615216112"></a><a name="p942615216112"></a>wav</p>
+</td>
+<td class="cellrowborder" valign="top" width="82.53%" headers="mcps1.2.3.1.2 "><p id="p642616214117"><a name="p642616214117"></a><a name="p642616214117"></a><a href="https://sis-sample-audio.obs.cn-north-1.myhuaweicloud.com/16k16bit.wav" target="_blank" rel="noopener noreferrer">https://sis-sample-audio.obs.cn-north-1.myhuaweicloud.com/16k16bit.wav</a></p>
+</td>
+</tr>
+<tr id="row1442692121117"><td class="cellrowborder" valign="top" width="17.47%" headers="mcps1.2.3.1.1 "><p id="p44261826117"><a name="p44261826117"></a><a name="p44261826117"></a>pcm</p>
+</td>
+<td class="cellrowborder" valign="top" width="82.53%" headers="mcps1.2.3.1.2 "><p id="p642614216118"><a name="p642614216118"></a><a name="p642614216118"></a><a href="https://sis-sample-audio.obs.cn-north-1.myhuaweicloud.com/16k16bit.pcm" target="_blank" rel="noopener noreferrer">https://sis-sample-audio.obs.cn-north-1.myhuaweicloud.com/16k16bit.pcm</a></p>
+</td>
+</tr>
+<tr id="row74261261113"><td class="cellrowborder" valign="top" width="17.47%" headers="mcps1.2.3.1.1 "><p id="p2042614219118"><a name="p2042614219118"></a><a name="p2042614219118"></a>pcm</p>
+</td>
+<td class="cellrowborder" valign="top" width="82.53%" headers="mcps1.2.3.1.2 "><p id="p742617211119"><a name="p742617211119"></a><a name="p742617211119"></a><a href="https://sis-sample-audio.obs.cn-north-1.myhuaweicloud.com/8k16bit.pcm" target="_blank" rel="noopener noreferrer">https://sis-sample-audio.obs.cn-north-1.myhuaweicloud.com/8k16bit.pcm</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+
