@@ -14,13 +14,16 @@ EI企业智能服务对于图片、语音等多媒体文件支持直接使用华
 
 配置公共读可参考[配置标准桶策略](https://support.huaweicloud.com/usermanual-obs/obs_03_0142.html)，将桶策略设置为“公共读”。一般私密数据不建议用此方法。
 
+目前仅支持访问用户个人OBS下的音频的链接，不支持读取其他用户公共读的链接。
+
 ## 开启语音交互服务授权<a name="section55616722819"></a>
 
 开启公共读授权访问，对于敏感信息，如个人私有数据，存在泄漏风险。可考虑开启语音交互服务授权。
 
-进入语音交互服务[console](https://console.huaweicloud.com/speech)，点击“服务授权“，选择确认对象存储服务授权。
+进入语音交互服务[Console](https://console.huaweicloud.com/speech)，点击“服务授权“，选择确认对象存储服务授权。
 
-![](figures/zh-cn_image_0204618476.png)
+**图 1**  服务授权<a name="fig126676515414"></a>  
+![](figures/服务授权.png "服务授权")
 
 ## 上传音频<a name="section7284174493912"></a>
 
