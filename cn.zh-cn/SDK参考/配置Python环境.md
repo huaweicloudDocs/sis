@@ -7,7 +7,7 @@
 
 ## 操作步骤<a name="section225384318120"></a>
 
-1.  下载Python SDK，通过**pip-list**命令查看安装包。若未安装，则执行以下命令：
+1.  [下载SDK](获取SDK.md)，通过**pip-list**命令查看安装包。若未安装，则执行以下命令：
 
     ```
     pip install setuptools
